@@ -1,0 +1,20 @@
+.ruler-button {
+  background-image: url('./logo/icon-ruler.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 30px;
+  width: 30px;
+  padding: 10px;
+  border: none !important;
+  cursor: pointer !important;
+}
+
+.result-tooltip {
+  border-width: medium;
+  border-color: #de0000 !important;
+  font-size: smaller;
+}
+
+.ruler-button.enabled {
+  background-color: rgb(170, 254, 170);
+}
