@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.56a48f0a.css",
-    "main.js": "/static/js/main.25b3c5df.js",
-    "index.html": "/index.html",
-    "main.56a48f0a.css.map": "/static/css/main.56a48f0a.css.map",
-    "main.25b3c5df.js.map": "/static/js/main.25b3c5df.js.map"
+    "main.css": "/react-leaflet-ruler/static/css/main.56a48f0a.css",
+    "main.js": "/react-leaflet-ruler/static/js/main.25b3c5df.js",
+    "index.html": "/react-leaflet-ruler/index.html",
+    "main.56a48f0a.css.map": "/react-leaflet-ruler/static/css/main.56a48f0a.css.map",
+    "main.25b3c5df.js.map": "/react-leaflet-ruler/static/js/main.25b3c5df.js.map"
   },
   "entrypoints": [
     "static/css/main.56a48f0a.css",
